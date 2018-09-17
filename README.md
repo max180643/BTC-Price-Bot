@@ -5,6 +5,7 @@ _____
 <b>Description:</b>
 <ul>
   <li>Show current price of BTC from bitcoin.co.th and sent message to line when price change.</li>
+  <li>Update Date : 17/09/18</li>
 </ul>
 
 _____
